@@ -1,1 +1,3 @@
-# IAS
+# AIS
+
+This project, developed for the Artificial Intelligence and Society (AIS) module of the Master's in Artificial Intelligence at the University of Minho, explores the growing concerns around user privacy on the internet. It investigates the data collection mechanisms used by websites, such as cookies and tracking technologies, and examines the implications of these practices. The project also analyzes how artificial intelligence is leveraged to predict and influence user behavior based on the collected data. Finally, we explored technologies aimed at making these processes more secure and ensuring user privacy in the digital landscape.
